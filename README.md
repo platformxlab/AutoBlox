@@ -1,4 +1,4 @@
-# AutoBlox_Artifact
+# AutoBlox
 
 Artifact of paper Learning to Drive Software-Deﬁned Solid-State Drives to appear in MICRO'23.
 
