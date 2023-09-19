@@ -1,0 +1,1495 @@
+MQSim started at Tue Mar 15 11:49:53 2022
+
+******************************
+Executing scenario 1 out of 1 .......
+setting gc threshold: block_pool_gc_threshold = 128; max_ongoing_gc_reqs_per_plane = 10; gc_threshold = 0.25; block_no_per_plane = 512
+Investigating input trace file: traces/TPCC-0-50.0
+Trace file: traces/TPCC-0-50.0 seems healthy
+SSD Device preconditioning started .........
+Address Distribution for Channel:0 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:0 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:1 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:2 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:3 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:4 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:5 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:6 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:7 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:8 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:9 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:10 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:0 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:1 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:2 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:3 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:0 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:1 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:2 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:3 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:4 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:5 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:6 Plane:0
+FREE BLOCK NUM = 448
+Address Distribution for Channel:11 Chip:4 Die:7 Plane:0
+FREE BLOCK NUM = 448
+Finished preconditioning. Duration of preconditioning: 0:0:47
+[>                   ]  0% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[=>                  ]  5% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[==>                 ]  10% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[===>                ]  15% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[====>               ]  20% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[=====>              ]  25% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[======>             ]  30% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[=======>            ]  35% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[========>           ]  40% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[=========>          ]  45% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[==========>         ]  50% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[===========>        ]  55% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[============>       ]  60% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[=============>      ]  65% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[==============>     ]  70% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+[===============>    ]  75% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+GC is triggered in Channel:1 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+[================>   ]  80% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+GC is triggered in Channel:3 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+[=================>  ]  85% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+GC is triggered in Channel:1 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:2 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+[==================> ]  90% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+GC is triggered in Channel:9 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:7 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:4 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:4 Die:2 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:3 Die:2 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:1 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:1 Die:0 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:4 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+[===================>]  95% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+GC is triggered in Channel:1 Chip:0 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:4 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:2 Die:2 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:4 Die:5 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:0 Die:1 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:4 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:1 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:7 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:5 Plane:0
+GC parameter: free_block_pool_size = 67, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:11 Chip:1 Die:3 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:0 Die:0 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:7 Chip:3 Die:6 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:9 Chip:4 Die:4 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:5 Chip:2 Die:1 Plane:0
+GC parameter: free_block_pool_size = 65, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:3 Die:4 Plane:0
+GC parameter: free_block_pool_size = 66, block_pool_gc_threshold = 128
+GC is triggered in Channel:3 Chip:2 Die:7 Plane:0
+GC parameter: free_block_pool_size = 64, block_pool_gc_threshold = 128
+GC is triggered in Channel:1 Chip:2 Die:3 Plane:0
+GC parameter: free_block_pool_size = 68, block_pool_gc_threshold = 128
+[====================]  100% progress in Host.IO_Flow.Trace.traces/TPCC-0-50.0
+
+MQSim finished at Tue Mar 15 11:50:56 2022
+
+Total simulation time: 0:1:3
+
+Writing results to output file .......
+Flow Host.IO_Flow.Trace.traces/TPCC-0-50.0 - total requests generated: 200000 total requests serviced:200000
+                   - device response time: 4219 (us) end-to-end request delay:3224529 (us)
+Simulation complete; Press any key to exit.

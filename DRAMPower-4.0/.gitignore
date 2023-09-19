@@ -1,0 +1,9 @@
+drampower
+*.d
+*.o
+*.a
+test/libdrampowertest/library_test
+*.gcno
+*.gcda
+traces/*
+traces.zip

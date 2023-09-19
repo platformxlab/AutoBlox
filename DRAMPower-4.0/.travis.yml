@@ -1,0 +1,11 @@
+language: cpp
+compiler:
+  - gcc
+install:
+  - echo "No install."
+before_install:
+  - sudo pip install cpp-coveralls
+  - sudo apt-get install -y libxerces-c-dev
+script: make test COVERAGE=1
+after_success:
+  - coveralls --exclude lib --exclude tests --gcov-options '\-lp'

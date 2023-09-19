@@ -1,0 +1,1 @@
+export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/home/daixuan2/aissd/DRAMPower-4.0/xerces-c-3.1.1/src/.libs
